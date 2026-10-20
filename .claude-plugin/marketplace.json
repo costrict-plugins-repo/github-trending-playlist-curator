@@ -1,0 +1,14 @@
+{
+  "name": "spotify-playlist-curator",
+  "owner": {
+    "name": "Rachel Howell"
+  },
+  "plugins": [
+    {
+      "name": "playlist-curator",
+      "description": "Gives AI agents musical intuition for playlist curation — audio DNA profiling, multi-source recommendations, and aesthetic blending across artists and genres.",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
